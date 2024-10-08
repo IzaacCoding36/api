@@ -1,0 +1,10 @@
+{
+    "Contato com Amigos e Família": 17.83,
+    "Preencher Tempo Livre": 13.97,
+    "Ler Notícias": 12.38,
+    "Conteúdos Educacionais": 10.93,
+    "Tendências": 10.32,
+    "Encontrar Inspiração": 9.58,
+    "Produtos para Comprar": 9.34,
+    "Compartilhar e Discutir": 8.12
+  }
