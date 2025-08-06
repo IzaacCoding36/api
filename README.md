@@ -1,3 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=500&size=17&pause=1000&color=FFFFFF&background=0B004B&center=true&vCenter=true&width=1000&height=100&lines=API+-+Redes+Sociais;Informa%C3%A7%C3%B5es+sobre+o+Mundo)](https://git.io/typing-svg)
+
+---
+
 # API sobre Redes Sociais
 
 Este repositório contém dados JSON relacionados ao uso e tendências em diferentes plataformas de redes sociais. Os dados são organizados para fornecer insights sobre diversos aspectos, como usuários, comportamentos e preferências em várias plataformas.
